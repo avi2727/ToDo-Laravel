@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../app/Http/Controllers"
+		},
+		{
+			"path": "../../app"
+		}
+	],
+	"settings": {}
+}
